@@ -1,0 +1,233 @@
+html{
+	background-color: #feefd8;
+	height: 100%;
+}
+
+body{
+	margin: auto;
+	background-color: white;
+	width: 996px;
+	font-family: Times;
+	height: 198px;
+	border-left: #c6d1d3 1px solid ;
+	border-right: #c6d1d3 1px solid ;
+}
+
+#menu{
+	position: absolute;
+	width: 996px;
+	height: 200px;	
+	display: block;
+	background-color: red;
+	background-image:url(../img/fondBandeau.jpg) ;
+	background-size: 996px 200px;
+	background-repeat: no-repeat;
+	
+
+}
+
+#pierre{
+	position: absolute;
+	margin-left: 10px;
+	margin-top: 20px;
+}
+
+
+#titre{
+	position: absolute;
+	margin-left: 50px;
+	margin-top: 30px;
+}
+
+.logo{
+	padding-top: 25px;
+	padding-left: 25px;
+}
+
+#bidonjour{
+        position: absolute;
+	width: 500px;
+	height:100px;
+	margin-left: 800px;
+	margin-top: 25px;
+        color: black;
+        font-size: 15px;
+}
+
+#deco{
+	position: absolute;
+	width: 200px;
+	height:60px;
+	margin-left: 800px;
+	margin-top: 55px;
+        background-color: black;
+        color: white;
+        font-size: 25px;
+        line-height: 2.3;
+        text-align: center;
+        border: solid grey 3px;
+}
+
+
+
+h1{
+	font-family: Times;
+	margin: 0;
+	padding: 0;
+	display: inline;
+	font-size: 24px;
+	font-weight: 100;
+	letter-spacing: 1px;
+	font-variant: small-caps;
+	
+	
+}
+
+.ligne{
+	width: 935px;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	height: 2px;
+	background-color: #e4cbb5;
+
+}
+
+.contactligne{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	height: 2px;
+	background-color: #e4cbb5;
+	
+}
+
+#affichagebijou{
+	position: absolute;
+	margin-top: 40px;
+	width: 960px;
+	height: 100%;
+	margin-left: 30px;
+
+}
+
+#contenu{
+	
+	position: absolute;
+	width: 996px;
+	margin-top: 200px;
+	height: 100%;
+	background-color: white;
+	border-left: #c6d1d3 1px solid ;
+	margin-left: -1px;
+	border-right: #c6d1d3 1px solid ;
+	border-bottom: #c6d1d3 1px solid ;
+
+}
+
+#conttitre{
+	position: absolute;
+}
+
+.prix {
+    color : #e4cbb5;
+    letter-spacing: 1px;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+#carre
+{
+	font-size: 14px;
+	margin: 30px;
+	padding: 8px;
+    width: 230px;
+    height: 340px;
+    color : #adb1ac;
+    letter-spacing: 1px;
+    font-size: 24px;
+    font-weight: 100;
+    text-align: center;
+    display: inline-block;
+    font-variant: small-caps;
+    border : #e4cbb5 1px solid;
+}
+
+.env{
+
+	padding: 0;
+	box-shadow: 3px 3px 3px #666666; 
+	margin-top: 6px;
+	
+}
+.martop{
+	margin-top: -8px;
+
+}
+#contact
+{
+	
+	padding: 0;
+	margin: 0;
+	margin-top: 10px;
+    width: 100px;
+    height: 50px;
+    color : #adb1ac;
+    display: inline-block;
+	background-color: #C5b6AD;
+	font-size: 14px;
+    font-weight: 100;
+    letter-spacing: 0px;
+    font-variant: normal;
+    color: black;
+    box-shadow: 4px 4px 4px #aaa; 
+    color : #484848;
+}
+
+#infos
+{
+	position: absolute;
+	margin-top: 10px;
+	margin-left:760px;
+    width: 225px;
+    height: 180px;
+	font-size: 17,5px;
+    font-weight: 100;
+    letter-spacing: 1px;
+    font-variant: normal;
+    color: #393939;
+    text-align: right;
+    
+    
+}
+
+.bijou{
+	padding: 0;
+	width: 90%;
+	height: 190px;
+	padding: 5px;
+    border-radius: 6px;
+}
+.envoye
+{
+	font-size: 10px;
+        margin: 0;
+        text-align: right;
+}
+img
+{
+        display: inline-block;
+
+}
+
+a{
+	
+	color: black;
+	
+}
+
+h2{
+	margin: 0;
+	padding: 0;
+}

@@ -1,0 +1,187 @@
+body{
+	margin: auto;
+	width: 1024px;
+	font-family: helvetica;
+	}
+
+#menu{
+	position: absolute;
+	margin-top: 10px;
+	width: 320px;
+	height: 120px;	
+	display: block;
+
+}
+#titre{
+	
+	position: absolute;
+	margin-top: 150px;
+	margin-left: 400px;
+	width: 500px;
+	line-height: 20px;
+
+}
+#deco{
+	position: absolute;
+	width: 200px;
+	height:60px;
+	margin-left: 800px;
+	margin-top: 55px;
+        background-color: black;
+        color: white;
+        font-size: 25px;
+        line-height: 2.3;
+        text-align: center;
+        border: solid grey 3px;
+}
+
+#commentaire{
+	position: absolute;
+	width: 800px;
+	height: 200px;
+	margin-left: -300px;
+
+
+}
+
+#commentaires{
+	position: absolute;
+	width: 600px;
+	height: 300px;
+	margin-top: 720px;	
+	margin-left: 200px;
+
+}
+
+
+.prendreencharge{
+	position: absolute;
+	margin-left: 700px;
+	margin-top: 665px;
+	background-color: black;
+	width: 200px;
+	height: 45px;
+	line-height: 40px;
+	font-family: helvetica;
+	 font-size: 18px;
+	text-align: center;
+	color: white;
+	border: gray solid 2px;
+	
+}
+
+.terminer{
+	position: absolute;
+	margin-left: 450px;
+	margin-top: 665px;
+	background-color: black;
+	width: 200px;
+	height: 45px;
+	line-height: 40px;
+	font-family: helvetica;
+	 font-size: 18px;
+	text-align: center;
+	color: white;
+	border: gray solid 2px;
+	
+}
+
+img
+{
+    display: inline-block;
+
+}
+
+hr{
+	width: 500px;
+	padding: 0;
+	border: 0;
+	height: 1px;
+	background-color: #e4cbb5;
+
+}
+h1{
+	margin: 0;
+	padding: 0;
+	display: inline;
+	font-size: 25px;
+	font-weight: 200;
+}
+
+#carre
+{
+	
+	position: absolute;
+	font-size: 14px;
+	margin: 25px;
+	margin-top: 180px;
+	margin-left: 100px;
+	padding: 8px;
+    width: 258px;
+    height: 266px;
+    text-align: center;
+    border-radius: 8px;
+    display: inline-block;
+}
+
+.red{
+	background-color: #e4cbb5; 
+}
+.orange{
+	background-color: #e4cbb5;
+}
+.green{
+	background-color: #e4cbb5;
+}
+
+.white{
+	background-color: #727272;
+}
+
+
+.bijou{
+	padding: 0;
+	width: 90%;
+	height: 230px;
+	padding: 5px;
+    border-radius: 6px;
+}
+
+.envoye
+{
+	font-size: 10px;
+    margin: 0;
+    text-align: right;
+}
+
+a{
+	
+	color: black;
+	
+}
+
+.redbutton{
+	background-color: #a70000;
+	width: 220px;
+	height: 45px;
+	line-height: 40px;
+	font-family: helvetica;
+	font-size: 18px;
+	text-align: center;
+	color: white;
+	border: black solid 2px;
+	
+}
+.greenbutton{
+	background-color:#0e9600;
+	width: 220px;
+	height: 45px;
+	line-height: 40px;
+	font-family: helvetica;
+	font-size: 18px;
+	text-align: center;
+	color: white;
+	border: black solid 2px;
+	
+}
+

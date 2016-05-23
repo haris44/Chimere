@@ -1,0 +1,6 @@
+label
+{
+    display:block;
+    width:170px; /* Attention : prenez une largeur suffisamment grande */
+    float:left;
+}
